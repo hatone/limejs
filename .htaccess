@@ -1,7 +1,0 @@
-
-<Files ~ "^\.(htaccess|htpasswd)$">
-deny from all
-</Files>
-DirectoryIndex /app/app.html       
-order deny,allow
-
